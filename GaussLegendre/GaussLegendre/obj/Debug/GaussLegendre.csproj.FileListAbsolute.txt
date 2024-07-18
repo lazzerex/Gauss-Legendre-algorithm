@@ -1,0 +1,7 @@
+E:\CSharp_Repo\GaussLegendre\GaussLegendre\bin\Debug\GaussLegendre.exe.config
+E:\CSharp_Repo\GaussLegendre\GaussLegendre\bin\Debug\GaussLegendre.exe
+E:\CSharp_Repo\GaussLegendre\GaussLegendre\bin\Debug\GaussLegendre.pdb
+E:\CSharp_Repo\GaussLegendre\GaussLegendre\obj\Debug\GaussLegendre.csproj.AssemblyReference.cache
+E:\CSharp_Repo\GaussLegendre\GaussLegendre\obj\Debug\GaussLegendre.csproj.CoreCompileInputs.cache
+E:\CSharp_Repo\GaussLegendre\GaussLegendre\obj\Debug\GaussLegendre.exe
+E:\CSharp_Repo\GaussLegendre\GaussLegendre\obj\Debug\GaussLegendre.pdb
