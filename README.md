@@ -1,13 +1,5 @@
 
-I. HOW TO USE THE CODE
-
-1. Clone the project using: git clone
-
-2. Run the Program.cs file in the GaussLegendre folder.
-
-3. There's your Pi(e)!
-
-II. EXPLAINING THE ALGORITHM
+# EXPLAINING THE ALGORITHM
 
 The Gauss-Legendre algorithm computes the digits of π. It is notable for being rapidly convergent, with only 25 iterations providing 45 million correct digits of π. However, it has certain downsides (for example, it is computer memory-intensive), therefore for many years, all record-breaking calculations have used other methods (For example, the Chudnovsky algorithm.)
 
